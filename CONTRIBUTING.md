@@ -23,7 +23,7 @@ This section guides you through submitting a bug report for Lucky Protocol. Foll
 
 This section guides you through submitting an enhancement suggestion for Lucky Protocol, including completely new features and minor improvements to existing functionality.
 
-- Fill in the [feature request template](.github/ISSUE_TEMPLATE/feature_request.md), including the steps that you imagine you would take if the feature you're requesting existed.
+- Fill in the [feature request template](feature_request.md), including the steps that you imagine you would take if the feature you're requesting existed.
 
 ### Pull Requests
 
